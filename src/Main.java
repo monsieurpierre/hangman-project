@@ -43,7 +43,8 @@ public class Main {
             }
         } while (livesCount > 0);
         if(livesCount==0) {
-            System.out.println("\n\n\n\n\n\n\n\n\n\n");
+            System.out.println("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
+            System.out.println("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
             checkLivesCount();
             drawField();
             System.out.println("\n");
